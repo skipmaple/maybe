@@ -1,0 +1,10 @@
+---
+zh-cn:
+  passwords:
+    edit:
+      password: 新密码
+      password_challenge: 重复新密码
+      submit: 重置密码
+      title: 更新密码
+    update:
+      success: 您的密码已成功重置。

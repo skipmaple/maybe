@@ -4,7 +4,9 @@ en:
     application:
       accounts: Accounts
       dashboard: Dashboard
+      logout: Log out
       new_account: New account
+      settings: Settings
       transactions: Transactions
     auth:
       or: or

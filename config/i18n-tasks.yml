@@ -1,4 +1,5 @@
 base_locale: en
+locales: [en, zh-cn]
 data:
   read:
     - config/locales/**/*%{locale}.yml

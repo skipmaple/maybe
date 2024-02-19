@@ -1,0 +1,5 @@
+---
+zh-cn:
+  password_mailer:
+    password_reset:
+      cta: 重置密码

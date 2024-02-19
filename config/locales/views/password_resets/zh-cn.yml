@@ -1,0 +1,14 @@
+---
+zh-cn:
+  password_resets:
+    create:
+      requested: 如果您的电子邮件地址与我们的记录匹配，我们将发送一封包含重置密码链接的电子邮件。
+    edit:
+      submit: 重置密码
+      title: 重置密码
+    new:
+      submit: 重置密码
+      title: 重置密码
+    update:
+      invalid_token: 对不起，您的令牌无效。
+      success: 您的密码已成功重置。

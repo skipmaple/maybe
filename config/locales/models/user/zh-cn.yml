@@ -1,0 +1,12 @@
+---
+zh-cn:
+  activerecord:
+    attributes:
+      user:
+        email: 电子邮件地址
+        family: 家庭
+        family_id: 家庭
+        first_name: 名
+        last_name: 姓
+        password: 密码
+        password_confirmation: 密码确认

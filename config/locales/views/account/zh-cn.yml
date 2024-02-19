@@ -1,0 +1,13 @@
+---
+zh-cn:
+  accounts:
+    create:
+      success: 新账户创建成功
+    index:
+      title: 现金
+    new:
+      name:
+        label: 账户名称
+        placeholder: 示例账户名称
+      select_accountable_type: 您想添加什么？
+      title: 添加一个账户
